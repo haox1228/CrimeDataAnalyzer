@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Merkle-Hellman Knapsack Cryptosystem/Merkle-Hellman Knapsack Cryptosystem.iml" filepath="$PROJECT_DIR$/Merkle-Hellman Knapsack Cryptosystem/Merkle-Hellman Knapsack Cryptosystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merkle-Hellman-Knapsack-Crypto-Project/Merkle-Hellman-Knapsack-Crypto-Project.iml" filepath="$PROJECT_DIR$/Merkle-Hellman-Knapsack-Crypto-Project/Merkle-Hellman-Knapsack-Crypto-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MerkleTree-Project/MerkleTree-Project.iml" filepath="$PROJECT_DIR$/MerkleTree-Project/MerkleTree-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObejctNode-Project/ObejctNode-Project.iml" filepath="$PROJECT_DIR$/ObejctNode-Project/ObejctNode-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Project1.iml" filepath="$PROJECT_DIR$/.idea/Project1.iml" />
+    </modules>
+  </component>
+</project>

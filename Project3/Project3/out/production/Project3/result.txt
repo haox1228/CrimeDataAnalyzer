@@ -1,0 +1,13 @@
+haouxanm
+011000
+100000
+100011
+000010
+001101
+001010
+
+Final Exam Period 0 => his098 eng050 mat100 
+Final Exam Period 1 => eng040 che080 
+Final Exam Period 2 => gym000 
+
+
